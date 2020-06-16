@@ -1,5 +1,5 @@
 # Site settings
-title: TKVTV OfficialWebsite
+title: TKVTV 
 email: takagotch@facebook.com
 description: 取引量No.1！ *当社比
 # > # this means to ignore newlines until "baseurl:"
@@ -9,13 +9,13 @@ description: 取引量No.1！ *当社比
 
 baseurl: "/page94" # the subpath of your site, e.g. /blog/
 url: "https://takagotch.github.io" # the base hostname & protocol for your site
-# twitter_username: jekyllrb
+# twitter_username: takagotch
 github_username: takagotch
 permalink: /:year/:month/:day/:title/
 # this is the url root of the view source link on the footer page.
-viewsourceroot: https://github.com/LiXizhi/LiXizhi.github.io/blob/master/
+viewsourceroot: https://github.com/takagotch/takagotch.github.io/blob/master/
 # this is the url root of the create page link on the footer page.
-newsourceroot: https://github.com/LiXizhi/LiXizhi.github.io/new/master
+newsourceroot: https://github.com/takagotch/takagotch.github.io/new/master
 #########################################
 # for duoshuo.com commenting system, uncomment following line if you do not want to include duoshuo.com. 
 #duoshuo_shortname: lixizhi
